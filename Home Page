@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html><style>
+body {
+  background-image: url('https://i.postimg.cc/7YrN75fL/dg4c80b-5a175a82-71ff-4b1e-a087-1ad3ee33b56d.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
+<head>
+<title>Dr. Crack </title>
+<style>
+/* CSS styles for the profile design */
+body {
+font-family: Arial, sans-serif;
+margin: 10;
+padding: 10;
+}
+.header {
+background-color: #1119;
+color: #FFA500;
+padding: 1px;
+text-align: center;
+}
+.profile img {
+width: 200px;
+height: 200px;
+border-radius: 500%;
+object-fit: cover;
+}
+.buttons {
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 250px;
+}
+.button {
+padding: 10px 50px;
+background-color: #3332;
+color: #FFFF00;
+border: none;
+border-radius: 20px;
+margin-bottom: 20px;
+text-decoration: none;
+text-align: center;
+width: 200px;
+}
+.button:hover {
+background-color: #555;
+}
+.copy-right {
+background-color: #333;
+color: #FF0000;
+padding: 10px;
+text-align: center;
+margin-top: 370px;
+}
+</style>
+</head>
+<body>
+<div class="header">
+<h1>Dɾ. Cɾαƈƙ
+</div>
+<div class="profile">
+
+</div><br>
+<div class="buttons">
+<a href="url1.html" class="button">မြန်မာ Local Leaks</a>
+<a href="url2.html" class="button">Button 2</a>
+<a href="url3.html" class="button">Button 3</a>
+<a href="url4.html" class="button">Button 4</a>
+</div></div>
+<div class="copy-right">
+&copy; 2024 Dr. Crack. ကြေငြာများထည့်သွင်းလိုပါက 199 သိုဖုန်းခေါ်ပေးပါ
+
+</body>
+</html>
